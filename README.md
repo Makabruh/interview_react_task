@@ -1,3 +1,18 @@
+# Keibra LTD L4 Application Support Lead React Interview Task
+
+This task consists of three React components on top of a simple Create React App structure.
+It emulates a simple form allowing for the input of different pieces of data relating to a Training Log.
+
+You will have 5 minutes to discuss bugs, defects, and missing requirements with the team.
+After which you will have 20 minutes to display your problem-solving skills. You will be allowed to use the internet and other resources including LLMs. However, you are not permitted to share the code online.
+
+Please familiarise yourself with the language, the framework, and the code modules.
+
+
+## See below for Create React App Introduction
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
