@@ -1,4 +1,4 @@
-# Keibra LTD L4 Application Support Lead React Interview Task
+# Keibra LTD L4 Technical React Interview Task
 
 This task consists of three React components on top of a simple Create React App structure.
 It emulates a simple form allowing for the input of different pieces of data relating to a Training Log.
